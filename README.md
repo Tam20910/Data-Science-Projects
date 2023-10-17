@@ -18,6 +18,8 @@ Applying advanced statistical methods, this project examines trends and patterns
 ## 6. Cohort Analysis for Treatment Effectiveness
 Using cohort studies, this project evaluates the effectiveness of different treatment modalities in behavioral health care, informing evidence-based practices.
 ## Future Endeavors:
-In the realm of healthcare analytics, my future projects will focus on leveraging cutting-edge technologies like AI-driven predictive modeling for early detection of mental health issues and the integration of wearable devices for real-time monitoring of patients' well-being.
 
-These projects not only demonstrate my technical proficiency but also underscore my dedication to utilizing data-driven approaches to improve healthcare outcomes, particularly in the realm of Behavioral Health Care. I invite you to explore these endeavors, and I look forward to pushing the boundaries of data science in the field of healthcare.
+## In the realm of healthcare analytics, my future projects will focus on leveraging cutting-edge technologies like AI-driven predictive modeling for early detection of mental health issues and the integration of wearable 
+   devices for real-time monitoring of patients' well-being.
+
+##These projects not only demonstrate my technical proficiency but also underscore my dedication to utilizing data-driven approaches to improve healthcare outcomes, particularly in the realm of Behavioral Health Care. I invite you to explore these endeavors, and I look forward to pushing the boundaries of data science in the field of healthcare.
